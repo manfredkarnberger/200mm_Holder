@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [200mm_Holder.PcbDoc]
+   Generated File[200mm_Holder.GTS]
+   Generated File[200mm_Holder.GTL]
+   Generated File[200mm_Holder.GBL]
+   Generated File[200mm_Holder.GBS]
+   Generated File[200mm_Holder.GM1]
+   Generated File[200mm_Holder.GM]
+   Generated File[200mm_Holder.EXTREP]
+   Generated File[200mm_Holder.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 10:53:22 On 28.06.2025
