@@ -2,17 +2,6 @@
 FileName = 200mm_Holder.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : 200mm_Holder.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : 200mm_Holder.GBS
 
@@ -43,10 +32,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : 200mm_Holder.GBL
+Generating : Top Layer
+      File : 200mm_Holder.GTL
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -56,10 +45,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : 200mm_Holder.GTL
+Generating : Mechanical 1
+      File : 200mm_Holder.GM1
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 200mm_Holder.GBL
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
