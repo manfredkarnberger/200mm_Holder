@@ -1,0 +1,12 @@
+Output: NC Drill Files 2
+Type  : NC Drill
+From  : PCB Document [200mm_Holder.PcbDoc]
+   Generated File[200mm_Holder.TXT]
+   Generated File[200mm_Holder.LDP]
+   Generated File[200mm_Holder.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:05:18 On 29.06.2025
